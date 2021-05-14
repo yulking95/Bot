@@ -1,16 +1,17 @@
-<p align="center" height="300" width="300">
-	<img src="./image/xandao2.jpg">
+<p align="center">
+	<img src="./image/xandao.png">
+	<img src="./image/xandao2.png">
 </p>
-
-<h1> ⚡SUPER XANDÃO⚡ e um Bot de whatsapp feito com a base de um dos meu YouTubers favoritos <a href="https://youtube.com/CaussZ"> Causs </a></h1>
+<h1>Super ⚡SUPER XANDÃO⚡ e um Bot de whatsapp feito com a base de um dos meu YouTubers favoritos *Causs*</h1>
+<p>https://youtube.com/CaussZ</p>
 
 Comandos pra instalar:
-
-* `termux-setup-storage`
 
 * `apt-get update `
 
 * `apt-get upgrade `
+
+* `termux-setup-storage`
 
 * `pkg install git `
 
@@ -33,6 +34,8 @@ Comandos pra instalar:
 ## Comandos do PM2 Monit
 
 * aperte o botão "CTRL" depois vá no teclado e aperte "C" Depois digite:
+
+* `pkg install pm2 `
 
 * `npm i -g pm2 `
 
